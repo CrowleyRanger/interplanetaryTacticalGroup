@@ -1,0 +1,12 @@
+[ 
+	//weapons
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"sw_rangermxi_l4"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"sw_rangermxiflashlight_l4"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"sw_rangermxi_l6"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"sw_heltxv_l4"} },
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"sw_hammerfellhwiv_l4"} },
+	
+	//armors
+	{"op":"add","path":"/defaultBlueprints/tier1/-","value":{"item":"sw_spacetrooperhelmet"} }
+	
+]

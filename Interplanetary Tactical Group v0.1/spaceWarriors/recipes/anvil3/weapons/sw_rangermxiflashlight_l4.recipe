@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "sw_rangermxi_l4", "count" : 1 },
+    { "item" : "flashlight", "count" : 1 }
+  ],
+  "output" : { "item" : "sw_rangermxiflashlight_l4", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

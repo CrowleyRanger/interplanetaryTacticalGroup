@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "sw_havoczmg_l6", "count" : 1 },
+    { "item" : "flashlight", "count" : 1 }
+  ],
+  "output" : { "item" : "sw_havoczmgflashlight_l6", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

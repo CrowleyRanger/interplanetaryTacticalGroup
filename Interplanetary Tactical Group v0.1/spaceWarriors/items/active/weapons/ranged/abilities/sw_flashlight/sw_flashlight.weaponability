@@ -1,0 +1,42 @@
+{
+  "animationCustom" : {
+    "animatedParts" : { "parts" : {
+      "flashlight" : {
+        "properties" : {
+          "zLevel" : 5,
+          "centered" : true,
+          "offset" : [-1.25, -0.375],
+          "transformationGroups" : ["muzzle"],
+          "image" : ""
+        }
+      }
+    }},
+    "lights" : {
+      "flashlightSpread" : {
+        "active" : false,
+        "position" : [-0.75, -0.5],
+        "transformationGroups" : ["muzzle"],
+        "color" : [80, 80, 80]
+      },
+      "flashlight" : {
+        "active" : false,
+        "position" : [-1.25, -0.5],
+        "transformationGroups" : ["muzzle"],
+        "color" : [180, 220, 220],
+        "pointLight" : true,
+        "pointAngle" : 0.00,
+        "pointBeam" : 2.5
+      }
+    },
+    "sounds" : {
+      "flashlight" : [ "/sfx/tools/flashlight_toggle.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "LED Flashlight",
+    "type" : "sw_flashlight",
+    "scripts" : ["/items/active/weapons/ranged/abilities/flashlight/flashlight.lua"],
+    "class" : "Flashlight"
+  }
+}

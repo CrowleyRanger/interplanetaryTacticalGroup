@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "siliconboard", "count" : 2 },
+    { "item" : "wire", "count" : 5 },
+    { "item" : "smallbattery", "count" : 4 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "sw_spacetrooperhelmet", "count" : 1 },
+  "groups" : [ "craftinganvil3", "armours", "all" ]
+}

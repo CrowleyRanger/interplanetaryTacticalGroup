@@ -1,0 +1,10 @@
+{
+  "author" : "XpaceRanger",
+  "description" : "//Weapons\n- Ranger MX-I (sw_rangermxi_l4, sw_rangermxiflashlight_l4, sw_rangermxi_l6)\n- Hel TX-V (sw_heltxv_l4)\n- Hammerfell HW-IV (sw_hammerfellhwiv_l4)\n- Athena SR-X (sw_athenasrx_l6)\n\n//Armors\n- Space Trooper Helmet (sw_spacetrooperhelmet)\n- Space Trooper Breastplate (sw_spacetrooperchest)\n- Space Trooper Pants (sw_spacetrooperpants)\n\nCurrently crafted at the craftinganvil3.",
+  "friendlyName" : "Interplanetary Tactical Group - ITG",
+  "link" : "steam://url/CommunityFilePage/2227407596",
+  "name" : "Interplanetary Tactical Group - ITG",
+  "steamContentId" : "2227407596",
+  "tags" : "Weapons|Armor and Clothes",
+  "version" : "0.1"
+}
